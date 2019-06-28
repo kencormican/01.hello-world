@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Stream One</title>
+        <link rel="stylesheet" href="css/style.css" type="text/css" />
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li> <a href="stream-one.html">Stream One</a></li>
+                <li> <a href="stream-two.html">Stream Two</a></li>
+                <li> <a href="stream-three.html">Stream Three</a></li>
+           </ul>
+        </nav>
+        <h1> This is Stream One</h1>
+        <div class=card>
+            <img src=""></img>
+            <a href="mailto:"></a>
+            <h2></h2>
+        </div>
+        <div class=card>
+            <img src=""></img>
+            <a href="mailto:"></a>
+            <h2></h2>
+        </div>
+        <div class=card>
+            <img src=""></img>
+            <a href="mailto:"></a>
+            <h2></h2>
+        </div>
+            <div class=card>
+            <img src=""></img>
+            <a href="mailto:"></a>
+            <h2></h2>
+        </div>
+    </body>
+</html>
